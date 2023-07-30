@@ -1,0 +1,4 @@
+worker:
+  stop-wait-time: PT5S
+  task-config:
+    shutdown-wait-time: PT15S
